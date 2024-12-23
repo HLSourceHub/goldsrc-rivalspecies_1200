@@ -1,0 +1,84 @@
+=======================================================================================
+==  Kallastin  === (c)2004 ===
+=======================================================================================
+
+---------------------------------------------------------------------------------------
+* LEVEL INFORMATION *
+---------------------------------------------------------------------------------------
+TITLE                   : Kallastin
+FILENAME                : rs_ca_kallastin.bsp
+AUTHOR                  : zammE-
+VERSION			: v3.0
+CONTACT			: mail  zamme_@hotmail.com   
+                          ICQ   77303023    
+                          IRC   @quakenet #wh40k
+
+(Please contact me if you find any bugs at all on the map, not listed on the 
+"KNOWN BUGS" section in this textfile.)
+
+---------------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+---------------------------------------------------------------------------------------
+SUGGESTED PLAYER LOAD   : 6 to 26 (maxplayers 36)
+ 
+NEW TEXTURES            : Textures lent by other Rival Species maps
+NEW SOUNDS              : Outdoors.wav, humming.wav and Small machine.wav
+NEW MODELS		: Nope
+CD TRACK #              : No cd track is played.
+ 
+---------------------------------------------------------------------------------------
+* CONSTRUCTION *
+---------------------------------------------------------------------------------------
+PREFABS USED            : My own Leman Russ prefab, ask me for it and I can send it to you.
+EDITOR(S) USED          : Hammer Tools and Worldcraft
+			  
+OTHER UTILITIES USED    : Wally
+                          ZhltCompileGui
+                          Zhlt
+                          Textpad
+			  Soundforge
+ 
+KNOWN BUGS              : 
+
+
+TOTAL COMPILE TIME	: 10mins
+  
+---------------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+---------------------------------------------------------------------------------------
+FILES INCLUDED		: kallastin.wad in the rspecies folder
+			  rs_dc_kallastin.bsp in the rspecies/maps folder
+			  gwave1.spr in the rspecies/sprites folder
+			  blueflare1.spr in the rspecies/sprites folder
+			  humming.wav in the rspecies/sound folder
+			  Outdoors.wav in the rspecies/sound folder
+			  Small machine.wav in the rspecies/sound folder
+
+---------------------------------------------------------------------------------------
+* BACKGROUND INFORMATION *
+---------------------------------------------------------------------------------------
+The Black Templars has captured a magic Sphere from the Chaos Forces. They are now storing
+it in a secret facility on the world of Kallastin, for being destroyed by Space Marine
+Inquisidors when they arrive.
+The Chaos forces must now recover the sphere at all costs, before its to late.
+
+---------------------------------------------------------------------------------------
+* CREDITS *
+---------------------------------------------------------------------------------------
+Wadfather and RS Texture artists   : For all the great textures. :)
+ChromeAngel: For creating the lovely Leman Russ
+
+
+=======================================================================================
+* COPYRIGHT / PERMISSIONS *
+---------------------------------------------------------------------------------------
+This level is (C) 2003 Samuel Udd.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files will be 
+tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting permission from me.

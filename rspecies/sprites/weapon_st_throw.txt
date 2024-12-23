@@ -1,0 +1,4 @@
+3
+weapon		640 NA			0	0	170	44
+weapon_s	640 NA			0	0	170	44
+ammo		640 misc			120	104	24	24

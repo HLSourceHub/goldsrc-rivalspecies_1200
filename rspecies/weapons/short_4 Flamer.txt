@@ -1,0 +1,4 @@
+The Flamer is a short ranged weapon which throws a stream of devastating fire at the opponent.
+If the victim is hit there is a chance that it catches fire and gets damage furthermore. 
+Flamers are very effective at flushing out enemy troops.
+  

@@ -1,0 +1,41 @@
+-----------------------------------RS_AC_CITY_CONFLICT--------------------------------------
+
+
+Map information:
+------------------------------------------------------------------------------------
+Name: rs_ac_city_conflict
+
+Max. players: 20
+
+Misson: This is a area control map. The team which controls all 4 flagpoints win the battle.
+
+Author:	Dark Marine
+
+
+Tools/Wads/Sounds:
+------------------------------------------------------------------------------------
+Editor: Hammer 3.4
+
+Tool:	ZHLT
+
+Wads:	city_conflict.wad 
+	half-life.wad
+
+Sounds:	outdoors
+
+
+credits:
+-------------------------------------------------------------------------------------
+Special thanks to:
+
+Bahl for his help to reduce the rspeed.
+
+Zamme for his wunderful Leman Rus prefab.
+
+Colonel Straken and Chrome Angel for his Leman Russ model.
+
+Blood Angel for his tanktrap models.	
+
+TheDoenerKing for some textures.
+
+Eltharion for his firebase prefab.

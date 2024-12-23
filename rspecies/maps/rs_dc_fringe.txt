@@ -1,0 +1,72 @@
+RS_DC_FRINGE by =][=Korkonius
+
+Size: Very Small
+
+Objective: Eliminate the other team
+
+Teams: Black Templars vs World Eaters
+
+Story: High up in the mountains of Barus Prime a small group of Black Templar marines is prepearing
+to face a large host of World Eaters. By the orders by Marshal Blackabar commander Alhaus is prepearing his
+remaining troops to face the next wave of bloodthirsty maniacs. After a series of fierce fighting and hours of waiting
+the teleportation uplink to orbiting ships is becoming steady and only minutes remain before the uplink is stable and
+reinforcements can arrive. If they can hold the research station "Fringe" ,the teleport destination, a counterattack can be launched
+soon and the removal of the taint of Khorne from the surface of Barus Prime will be withing out grasp.
+
+Version: 0.5
+--------------------------------------------------------------------------------------------
+Changes: from v.0.4a
+-Added lots of sprites
+-One sound is missing fixing it for v 6 :D
+
+Changes: from v.0.4
+-Recolored Signs again
+-Reworked left exit from BT start
+-Fixed the teleports
+
+Changes: from v.0.3a
+-Grate in the walkway over the lava
+-Tried to fix the shootable hologram (again)
+-Increased depth of the lighting
+-Added some statues in BT start
+-Changed the sky again to a mountain theme to fit the story
+-Added small story (needs some changes, help anyone?)
+-Fixed minor unaligned textures
+-Reworked room nearest BT start from lava room
+
+Changes: from v.0.3
+-Removed so called Acid light
+-Yet again a new sky
+
+Changes: from v.0.2
+-Reworked BT start
+-Lowered floor in room next to lava
+-Added ambitient sounds
+-Added a few signs
+-Made sprites on the telepoerters more visible and added a glow to them
+-Fixed triangle monitor down the ladder from BT start
+-Made WE model not shootable
+-Moved the teleport exit a little (towards we start)
+-Fixed some ladder issues
+-Changed Skybox
+
+Changes: from v.0.1
+-Improved room with windows
+-Included WAD with textures
+-Got the WE model out of the floor
+-Added sprites around the teleports (barely visible)
+-Moving lava and improved lighting in the room with walkway
+-Small ambitient light from the sky through the windows where added
+--------------------------------------------------------------------------------------------
+-The custom textures featured in this map is made by ChromAngel, SPAWN and 2 of them by myself. The rest are either made by Valve
+or can be found in one of the wads that are released with RS. Some made specially by me for this map any texture starting with
+!ko_ or ko may not be used in another map without my premission. Thanks to Alhaus for inspiration to the maps story.
+
+-This map is made for RS and may not be used in any other mod/game without premission from me.
+
+Installation:
+Unzip the file into your halflife folder
+
+All rights reserved Eirik Eggesbø Ottesen, also known as Korkonius or =][=Korkonius
+
+Map can only be downloaded from www.gamg.org noone else can host this file! 

@@ -1,0 +1,40 @@
+-----------------------------------RS_AC_DEATHWORLD--------------------------------------
+
+
+Map information:
+------------------------------------------------------------------------------------
+Name: rs_ac_deathvalley
+
+Max. players: 20
+
+Misson: This is a area control map. The teams who conquer all sectors wins.
+
+Author:	Dark Marine
+
+
+Tools/Wads/Sounds:
+------------------------------------------------------------------------------------
+Editor: Hammer 3.4
+
+Tool:	HLCC
+	ZHLT
+
+Wads:	deathvalley.wad
+	half-life.wad
+
+Sounds:	night_bloody
+	waterfall02
+	scarywind
+
+credits:
+-------------------------------------------------------------------------------------
+Special thanks to:
+
+Bahl for his help to finish the map.
+
+Blood Angel for his beautiful models and sounds.
+
+DoenerKing and Xenon for the grass models.
+
+	
+

@@ -1,0 +1,6 @@
+5
+weapon		640 NA				0	0	170	44
+weapon_s	640 NA				0	0	170	44
+ammo		640 misc			96	104	24	24
+crosshair	640 crosshairs			0	24	48	48
+autoaim		640 crosshairs			0	24	48	48

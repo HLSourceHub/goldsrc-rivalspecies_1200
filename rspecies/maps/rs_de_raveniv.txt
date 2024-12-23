@@ -1,0 +1,52 @@
+~ LEVEL INFORMATION ~
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+TITLE                   : Raven IV
+FILENAME                : rs_de_raveniv.bsp
+AUTHOR                  : Brother Boblin
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ LEVEL DESCRIPTION ~
+///////////////////////////////////////////////////////////////////////////////////////
+SUGGESTED PLAYER LOAD   : 4 to 16
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ CONSTRUCTION ~
+///////////////////////////////////////////////////////////////////////////////////////
+PREFABS USED            : None.
+EDITOR(S) USED          : Valve Hammer
+OTHER UTILITIES USED    : Wally
+                          Textpad
+                          Zoners
+
+TOTAL COMPILE TIME	: 15 minutes
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ SPECIAL INSTRUCTIONS | ADDITIONAL INFORMATION ~
+///////////////////////////////////////////////////////////////////////////////////////
+NEEDED FILES		: None
+			 
+Space Marines spawn in their rest area, Chaos Space Marines spawn in loading bay, this
+map is a circle, so it will be easy to find the enemy!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ BACKGROUND INFORMATION ~
+///////////////////////////////////////////////////////////////////////////////////////
+Chaos have snuck aboard the Raven IV, a space marine frigate, you must destroy the 
+main doors power unit, so a larger force can land in the main bay. However to destroy 
+the generator, Chaos units must first destroy the shield generator power crystals.
+
+Space Marines, your job is to kill any chaos you see, they are heretic's destroy them!
+Fight them back into the loading bay and hold them there. Prevent them from destroying 
+the generator at all costs!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ CREDITS ~
+///////////////////////////////////////////////////////////////////////////////////////
+RS Team			: Making the mod.
+Ahriman                 : I copied your text file,that you copied off Charon
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ COPYRIGHT | PERMISSIONS ~
+///////////////////////////////////////////////////////////////////////////////////////
+This level is (C) 2003 Richard Karlsen.

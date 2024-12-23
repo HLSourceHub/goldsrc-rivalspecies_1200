@@ -1,0 +1,22 @@
+Title:		Riverscape
+ - Author -
+Nick:		jitspoe
+Name:		Nathan Wulf
+E-mail:		jitspoe@captured.com or akanathan@hargray.com
+Homepage:	http://www.lockandload.com/jitspoe/
+
+ ----
+
+Filenames:	(12 files) riverscape1bk.pcx ... riverscape1up.tga
+Description:	This is a sky map or "box" for Quake2 levels.  You can use it
+		by adding "sky" "riverscape1" to the worldspawn while building a map,
+		or by typing "sky riverscape1" at the console while in quake2.
+Build time:	About 4 hours.
+Render time:	1-2 hours total.
+Tools used:	Terragen, Paint Shop Pro 5.
+
+ ----
+
+Legal stuff:	Distribute this freely as there's no money involved, and you
+		include this .txt file somewhere with it.  If you wish to use
+		it in something commercial, contact me about it.

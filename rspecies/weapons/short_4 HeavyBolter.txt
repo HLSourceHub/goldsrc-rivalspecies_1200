@@ -1,0 +1,3 @@
+The Heavy Bolter is the heavy weapon version of the bolter.
+It uses bigger caliber and increased rate of fire than the normal bolter.
+Nothing can withstand this weapon for long.

@@ -1,0 +1,83 @@
+=======================================================================================
+==  Forgotten  === (c)2002 ===
+=======================================================================================
+
+---------------------------------------------------------------------------------------
+* LEVEL INFORMATION *
+---------------------------------------------------------------------------------------
+TITLE                   : Forgotten
+FILENAME                : rs_dc_forgotten.bsp
+AUTHOR                  : Charon
+
+---------------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+---------------------------------------------------------------------------------------
+SUGGESTED PLAYER LOAD   : 8 to 16. ... maybe 32? ;)
+ 
+NEW TEXTURES            : Yes, some by me
+NEW SOUNDS              : Yes, the sound near the reactor from Ded_Guy
+NEW MODELS		: Yes, the holo in the transmitter-control-room
+CD TRACK #              : No cd track is played.
+ 
+---------------------------------------------------------------------------------------
+* CONSTRUCTION *
+---------------------------------------------------------------------------------------
+PREFABS USED            : None.
+EDITOR(S) USED          : Valve Hammer
+			  Quark
+OTHER UTILITIES USED    : GIMP
+                          Wally
+                          ZhltCompileGui
+                          Zhlt
+                          Textpad
+ 
+KNOWN BUGS              : way too much...
+
+TOTAL COMPILE TIME	: you don't really want to know ;)
+  
+---------------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+---------------------------------------------------------------------------------------
+NEEDED FILES		: rs_dc_forgotten.wad in the rspecies folder
+			  ashworld.mdl in the models/item folder
+			  pulse.wav in the sound folder
+
+The Spawnpoint of the Imperial Marines is in the teleporter room.
+The Chaos-Marines will spawn somewhere outside where they landed after their Battleship
+was destroyed.
+
+---------------------------------------------------------------------------------------
+* BACKGROUND INFORMATION *
+---------------------------------------------------------------------------------------
+The battle takes place on an old ashworld. Decades ago the Adeptus Mechanicus has build
+an outpost on this planet. Now its abandoned and forgotten due to dark and old reasons
+only the emperor may know about.
+
+The only information which has slipped thru the imperial censorship were some rumours
+about an alien reactor. Some said that the Techpriests hadn't enough courage to
+activate it. Some said they had.....
+
+The Mission of the Imperial Marines is to find and defend the reactor against the
+renegades and heretics.
+
+---------------------------------------------------------------------------------------
+* CREDITS *
+---------------------------------------------------------------------------------------
+Bahl			: For making the Holo in the Teleporter controlling room
+Ded_Guy			: for the "Reactor-Sound"
+Wadfather		: for some of his great textures... dunno which are from there
+
+
+=======================================================================================
+* COPYRIGHT / PERMISSIONS *
+---------------------------------------------------------------------------------------
+This level is (C) 2002 Markus Lobedann.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files will be 
+tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting permission from me.

@@ -1,0 +1,3 @@
+The Bolt Pistol is the little brother of the Bolter.
+It has a decreased range, less rate of fire but the same penetration power. 
+  

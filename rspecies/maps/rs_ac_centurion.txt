@@ -1,0 +1,78 @@
+=======================================================================================
+==  Dominia  === (c)2004 ===
+=======================================================================================
+
+---------------------------------------------------------------------------------------
+* LEVEL INFORMATION *
+---------------------------------------------------------------------------------------
+INSTALLATION		: Unzip to rspecies folder
+TITLE                   : Centurion
+FILENAME                : rs_ac_centurion.bsp
+AUTHOR                  : zammE-
+VERSION			: v0.5
+CONTACT			: mail  zamme_@hotmail.com   
+                          ICQ   77303023    
+                          IRC   #wh40k @quakenet
+
+(Please contact me if you find any bugs at all on the map, not listed on the 
+"KNOWN BUGS" section in this textfile.)
+
+---------------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+---------------------------------------------------------------------------------------
+SUGGESTED PLAYER LOAD   : 6 to 32 (maxplayers 32)
+ 
+NEW TEXTURES            : centurion.wad
+NEW SOUNDS              :
+zamme_screams.wav
+zamme_hell.wav
+zamme_Whispers_01.wav
+
+NEW MODELS		: 
+item_chaosgate.mdl
+chain.mdl
+ 
+---------------------------------------------------------------------------------------
+* CONSTRUCTION *
+---------------------------------------------------------------------------------------
+EDITOR(S) USED          : Hammer Tools
+			  
+OTHER UTILITIES USED    : Wally
+                          ZhltCompileGui
+                          Zhlt
+                          Textpad
+			  Soundforge
+		     	  Photoshop
+			  MsPaint
+ 
+KNOWN BUGS              : None
+
+
+TOTAL COMPILE TIME	: 30 mins
+  
+---------------------------------------------------------------------------------------
+* BACKGROUND INFORMATION *
+---------------------------------------------------------------------------------------
+Recently, the Iron Warriors engaged and conquered an Imperium world, but the Worl Eater
+lords try to claim the planet since it lies in their territorium, 
+The IW lords claims that the planet is theirs, because they eliminated the Imperial threats. 
+Eventually the WE open up several chaos gates on the planet as an attempt to claim the corrupted
+planet the "easy way". 
+
+---------------------------------------------------------------------------------------
+* CREDITS *
+---------------------------------------------------------------------------------------
+Cyberman:	For the Chain and Chaosgate models.
+=======================================================================================
+* COPYRIGHT / PERMISSIONS *
+---------------------------------------------------------------------------------------
+This level is (C) 2004 Samuel Udd.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files will be 
+tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting permission from me.

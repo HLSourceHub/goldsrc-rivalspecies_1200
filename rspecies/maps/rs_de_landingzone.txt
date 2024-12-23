@@ -1,0 +1,45 @@
+-----------------------------------RS_DE_LANDINGZONE--------------------------------
+
+
+Map information:
+------------------------------------------------------------------------------------
+Name: rs_de_landingzone
+
+Max. players: 20
+
+Misson: The Chaos Space Marines attacking an Iron Warrior space defence cannon, which
+	is threating his own spaceship. They have to destroy the generator to deaktivate 
+	the space cannon.
+
+	After five minutes the cannon is ready to shoot. In this time the 
+	Space Marines have to defence it.
+
+Author:	Dark Marine
+
+
+Tools/Wads/Sounds:
+------------------------------------------------------------------------------------
+Editor: Hammer 3.4
+
+Tool:	ZHLT
+
+Wads:	command.wad
+	forgotten.wad
+	landingzone.wad 
+	half-life.wad
+
+Sounds:	Duesen
+	Duesen2
+
+
+credits:
+-------------------------------------------------------------------------------------
+Special thanks to:
+
+Alex"aLX"Peterson for his background sky.
+
+TheDoenerKing and Xenon for their beautiful outdoor models.
+
+Blood Angel for his nice tank traps and his background sounds models.
+
+

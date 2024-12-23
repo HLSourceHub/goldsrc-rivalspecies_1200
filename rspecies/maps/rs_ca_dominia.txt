@@ -1,0 +1,81 @@
+=======================================================================================
+==  Dominia  === (c)2004 ===
+=======================================================================================
+
+---------------------------------------------------------------------------------------
+* LEVEL INFORMATION *
+---------------------------------------------------------------------------------------
+INSTALLATION		: Unzip to Half-Life folder
+TITLE                   : Dominia
+FILENAME                : rs_ca_dominia.bsp
+AUTHOR                  : zammE-
+VERSION			: v1.6
+CONTACT			: mail  zamme_@hotmail.com   
+                          ICQ   77303023    
+                          IRC   @quakenet #wh40k
+
+(Please contact me if you find any bugs at all on the map, not listed on the 
+"KNOWN BUGS" section in this textfile.)
+
+---------------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+---------------------------------------------------------------------------------------
+SUGGESTED PLAYER LOAD   : 6 to 26 (maxplayers 36)
+ 
+NEW TEXTURES            : Dominia.wad
+NEW SOUNDS              : Negative
+NEW MODELS		: Negative
+CD TRACK #              : No cd track is played.
+ 
+---------------------------------------------------------------------------------------
+* CONSTRUCTION *
+---------------------------------------------------------------------------------------
+EDITOR(S) USED          : Hammer Tools
+			  
+OTHER UTILITIES USED    : Wally
+                          ZhltCompileGui
+                          Zhlt
+                          Textpad
+			  Soundforge
+		     	  Photoshop
+			  MsPaint
+ 
+KNOWN BUGS              : None
+
+
+TOTAL COMPILE TIME	: 25mins
+  
+---------------------------------------------------------------------------------------
+* SPECIAL INSTRUCTIONS / ADDITIONAL INFORMATION *
+---------------------------------------------------------------------------------------
+FILES INCLUDED		: dominia.wad in the rspecies folder
+			  rs_ca_dominia.bsp in the rspecies/maps folder
+			  field.wav in the rspecies/sound folder
+			  fire.spr in the sprites folder
+
+---------------------------------------------------------------------------------------
+* BACKGROUND INFORMATION *
+---------------------------------------------------------------------------------------
+NONE-----------NONE
+
+---------------------------------------------------------------------------------------
+* CREDITS *
+---------------------------------------------------------------------------------------
+Iikka "Fingers" Keranen: Textures
+Kevin "Rorshach" Johnstone: Textures
+Kevin "Relic25": Textures
+"The mighty Pete": Textures and Sky
+
+=======================================================================================
+* COPYRIGHT / PERMISSIONS *
+---------------------------------------------------------------------------------------
+This level is (C) 2004 Samuel Udd.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files will be 
+tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting permission from me.

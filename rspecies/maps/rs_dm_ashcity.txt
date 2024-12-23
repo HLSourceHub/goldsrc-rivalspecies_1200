@@ -1,0 +1,20 @@
+Rs_dm_ashcity - Made by st0lve
+
+------------------------------------
+
+Textures by RS team,evil lair,DaveJ & st0lve
+
+------------------------------------
+
+2nd version!
+
+------------------------------------
+
+Mail: st0lve@mapping.no
+Homepage: www.mapping.no
+
+------------------------------------
+
+ashcity.bsp -> rspecies\maps
+ashcity.wad -> rspecies
+ashdn\lf\rt\up\bk\ft -> rspecies\gfx\env

@@ -1,0 +1,51 @@
+~ LEVEL INFORMATION ~
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+TITLE                   : SpaceHulk
+FILENAME                : rs_dm_SpaceHulk.bsp
+AUTHOR                  : Brother Boblin
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ LEVEL DESCRIPTION ~
+///////////////////////////////////////////////////////////////////////////////////////
+SUGGESTED PLAYER LOAD   : 6 to 20
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ CONSTRUCTION ~
+///////////////////////////////////////////////////////////////////////////////////////
+PREFABS USED            : None.
+EDITOR(S) USED          : Valve Hammer
+OTHER UTILITIES USED    : Wally
+                          Textpad
+                          Zoners
+
+TOTAL COMPILE TIME	: 5 minutes
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ SPECIAL INSTRUCTIONS | ADDITIONAL INFORMATION ~
+///////////////////////////////////////////////////////////////////////////////////////
+NEEDED FILES		: None
+			 
+Fight inside an old spacehulk...
+
+Destroy the generator that is charging your enemys teleporters!
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ CREDITS ~
+///////////////////////////////////////////////////////////////////////////////////////
+RS Team			: Making the mod.
+Ahriman                 : I copied your text file,that you copied off Charon
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ COPYRIGHT | PERMISSIONS ~
+///////////////////////////////////////////////////////////////////////////////////////
+This level is (C) 2003 Richard Karlsen.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files will be 
+tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!
+
+The RS Team may include or delete this from their mod, and or alter it with my permission.

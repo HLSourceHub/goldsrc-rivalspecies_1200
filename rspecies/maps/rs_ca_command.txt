@@ -1,0 +1,72 @@
+~ LEVEL INFORMATION ~
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+TITLE                   : Command
+FILENAME                : rs_ca_command.bsp
+AUTHOR                  : Ahriman
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ LEVEL DESCRIPTION ~
+///////////////////////////////////////////////////////////////////////////////////////
+SUGGESTED PLAYER LOAD   : 4 to 8
+ 
+NEW TEXTURES            : Only one's from wad father.
+NEW SOUNDS              : No new sounds
+NEW MODELS		: No new models
+CD TRACK #              : No cd track is played.
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ CONSTRUCTION ~
+///////////////////////////////////////////////////////////////////////////////////////
+PREFABS USED            : None.
+EDITOR(S) USED          : Valve Hammer
+OTHER UTILITIES USED    : Wally
+                          Textpad
+                          Zoners
+
+KNOWN BUGS              : Very Little
+
+TOTAL COMPILE TIME	: 1 hour
+  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ SPECIAL INSTRUCTIONS | ADDITIONAL INFORMATION ~
+///////////////////////////////////////////////////////////////////////////////////////
+NEEDED FILES		: command.wad in the rspecies folder
+			 
+Space Marines spawn in a teleport room, Chaos Space Marines spawn in a docking bay,
+there is vents running through the map, find them yourself :) 
+
+To capture the relic stand on the large teleport pad in the tech room, good luck.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ BACKGROUND INFORMATION ~
+///////////////////////////////////////////////////////////////////////////////////////
+Chaos want a very valuable piece of the space marine library, they desire this more then
+Anything now.  They must grab the book of knowledge from the arena and fight
+Their way into the teleport room and warp back onto the ship, there is no other way.
+
+Space Marines, your job is to kill any chaos you see, they are heretic's destroy them!
+Also recover your forgotten relic and return to the teleporter to Escape.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ CREDITS ~
+///////////////////////////////////////////////////////////////////////////////////////
+RS Team			: Making the mod.
+Charon                  : I copied your text file, :)
+Wadfather		: Textures from many of the wad files on that site.
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+~ COPYRIGHT | PERMISSIONS ~
+///////////////////////////////////////////////////////////////////////////////////////
+This level is (C) 2002 Ryan Moore.
+
+Authors MAY NOT use this level as a base to build additional levels.
+No decompiling, hacking, or modification of the .bsp or related files will be 
+tolerated.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO MODIFICATIONS!
+If you don't co-operate, then DON'T DISTRIBUTE IT IN ANY FORM!
+ 
+No money may be charged for this level AT ALL without first getting permission from me.
+
+The RS Team may include or delete this from their mod, and or alter it with my permission.
